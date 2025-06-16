@@ -43,6 +43,15 @@
 **Caching: Use caching strategies to reduce database load and improve performance.**
 
 
+
+## Database Design
+**User Management: Implement a secure system for user registration, authentication, and profile management.**
+**Property Management: Develop features for property listing creation, updates, and retrieval.**
+**Booking System: Create a booking mechanism for users to reserve properties and manage booking details.**
+**Payment Processing: Integrate a payment system to handle transactions and record payment details.**
+**Review System: Allow users to leave reviews and ratings for properties.**
+**Data Optimization: Ensure efficient data retrieval and storage through database optimizations.**
+
 ## API Security
 **<sub>Authentication:	Verifies who is making the request,	Prevents unauthorized users from accessing the system Example Methods: API keys, OAuth 2.0, JSON Web Tokens (JWT)</sub>**
 **<sub>Authorization:	Verifies what they can do,	Prevents users from accessing or modifying data improperly Example Methods: Role-Based Access Control (RBAC), Attribute-Based Access Control (ABAC), OAuth scopes</sub>**
